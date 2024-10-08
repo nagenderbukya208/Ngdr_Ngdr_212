@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-21T14:51:55 IST" name="Default suite" finished-at="2024-06-21T14:51:59 IST" duration-ms="3396">
+    <groups>
+    </groups>
+    <test started-at="2024-06-21T14:51:55 IST" name="Default test" finished-at="2024-06-21T14:51:59 IST" duration-ms="3396">
+      <class name="practice.testng.SampleReportTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:practice.testng.SampleReportTest@3c41ed1d]" started-at="2024-06-21T14:51:55 IST" name="configBS" finished-at="2024-06-21T14:51:55 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method signature="createContactTest()[pri:0, instance:practice.testng.SampleReportTest@3c41ed1d]" started-at="2024-06-21T14:51:55 IST" name="createContactTest" finished-at="2024-06-21T14:51:59 IST" duration-ms="3362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:practice.testng.SampleReportTest@3c41ed1d]" started-at="2024-06-21T14:51:59 IST" name="configAS" finished-at="2024-06-21T14:51:59 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- practice.testng.SampleReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
